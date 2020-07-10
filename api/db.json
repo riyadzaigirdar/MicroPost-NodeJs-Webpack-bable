@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": " title two",
+      "body": "body of the post 2 object"
+    },
+    {
+      "id": 3,
+      "title": " title three ghhfjjhgfjhfgjfg",
+      "body": "body of the post 3 object kjhjhkjhkjjh"
+    },
+    {
+      "title": "title  4",
+      "body": "body of the post 4 object",
+      "id": 4
+    }
+  ]
+}
